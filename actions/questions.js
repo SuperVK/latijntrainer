@@ -20,7 +20,6 @@ export const checkDutch = () => {
 }
 
 export const nextQuestion = () => {
-	console.log('damn2')
 	quizMaster.newQuestion()
 
 	let question = quizMaster.getQuestion()

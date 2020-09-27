@@ -16,8 +16,6 @@ class QuizMaster {
 
 	}
 	getQuestion() {
-		console.log(this.questions)
-		console.log(this.currentIndex)
 		return {
 			latin: {
 				before: this.questions[this.currentIndex-1] && this.questions[this.currentIndex-1][0],
