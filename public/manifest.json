@@ -20,8 +20,8 @@
     ],
     "theme_color": "#673ab7",
     "background_color": "#FFFFFF",
-    "start_url": "https://code.supervk.xyz/latijntrainer",
-    "scope": "https://code.supervk.xyz/latijntrainer",
+    "start_url": "https://code.supervk.xyz/latijntrainer/",
+    "scope": "https://code.supervk.xyz/latijntrainer/",
     "display": "standalone",
     "orientation": "portrait"
   }
