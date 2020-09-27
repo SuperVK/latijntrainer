@@ -15,13 +15,13 @@
       {
         "src": "icons/512.png",
         "sizes": "512x512",
-        "type": "image/png"
+        "type": "image/png",
+        "purpose": "maskable"
       }
     ],
     "theme_color": "#673ab7",
     "background_color": "#FFFFFF",
-    "start_url": "https://code.supervk.xyz/latijntrainer/",
-    "scope": "https://code.supervk.xyz/latijntrainer/",
+    "start_url": "/",
     "display": "standalone",
     "orientation": "portrait"
   }
