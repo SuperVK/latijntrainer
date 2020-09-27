@@ -1,0 +1,14 @@
+.LatinText {
+	font-size: 48;
+}
+
+.ContextText {
+	color: grey;
+	font-size: 48;
+}
+
+.QuestionText {
+	color: black;
+	font-weight: bold;
+	font-size: 48;
+}
