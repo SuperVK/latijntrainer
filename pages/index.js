@@ -3,6 +3,22 @@ import { connect } from 'react-redux'
 import AppBar from '@material-ui/core/AppBar';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
+import {ThemeProvider} from '@material-ui/core/styles'
+
+import { createMuiTheme } from '@material-ui/core/styles';
+
+const theme = createMuiTheme({
+  palette: {
+    primary: {
+      main: '#673ab7',
+      contrastText: '#fff',
+    },
+    secondary: {
+      main: '#2979ff',
+      contrastText: '#000',
+    },
+  },
+});
 
 import { startQuestionSet } from '../actions/questionSets'
 
@@ -14,8 +30,8 @@ import StartMenu from '../components/StartMenu'
 
 const App = ({ questionSet, startQuestionSet }) => {
 	return (
-	<>
-		<AppBar position="static">
+	<ThemeProvider theme={theme}>
+		<AppBar position="static" style={theme}>
 			<Toolbar>
 				<Typography variant="h6">
 				Latijn
@@ -26,7 +42,7 @@ const App = ({ questionSet, startQuestionSet }) => {
 			{questionSet.started ? <FlashcardContainer/> : <StartMenu start={startQuestionSet}/>}
 		</div>
 
-	</>
+	</ThemeProvider>
 )}
 
 
