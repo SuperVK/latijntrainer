@@ -9,7 +9,7 @@ export default class MyDocument extends Document {
 					<link rel="manifest" href="/manifest.json" />
 					<link rel="icon" href="/favicon.ico" />
 					<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css"></link>
-                    <meta name='theme-color' content='#4527A0'/>
+                    <meta name='theme-color' content='#673ab7'/>
 				</Head>
 				<body>
 					<Main />

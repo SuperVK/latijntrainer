@@ -20,7 +20,8 @@
     ],
     "theme_color": "#673ab7",
     "background_color": "#FFFFFF",
-    "start_url": "/latijntrainer",
+    "start_url": "/latijntrainer/",
+    "scope": "/latijntrainer/",
     "display": "standalone",
     "orientation": "portrait"
   }
