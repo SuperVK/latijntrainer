@@ -6,5 +6,5 @@ module.exports = withPWA({
         scope: '/latijntrainer/',
         sw: '/latijntrainer/sw.js'
     },
-    basePath: '/latijntrainer/'
+    basePath: '/latijntrainer'
 })
