@@ -10,7 +10,7 @@ let labels = quizMaster.getLabels()
 const StartMenu = ({ start }) => {
 	
 
-    const [checked, setChecked] = React.useState([0]);
+    const [checked, setChecked] = React.useState([]);
 
     const handleToggle = (value) => () => {
         const currentIndex = checked.indexOf(value);
@@ -28,7 +28,7 @@ const StartMenu = ({ start }) => {
 	return <div className={styles.StartMenu}>
 		<div style={{height: '10px'}}></div>
 		<QuestionSelection labels={labels} handleToggle={handleToggle} checked={checked}></QuestionSelection>
-		<StartButton onClick={() => start(checked)}></StartButton>
+		<StartButton disabled={checked.length == 0} onClick={() => start(checked)}></StartButton>
 	</div>
 }
 

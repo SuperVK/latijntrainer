@@ -20,19 +20,24 @@ const theme = createMuiTheme({
   },
 });
 
-import { startQuestionSet } from '../actions/questionSets'
+import { startQuestionSet, stopQuestionSet } from '../actions/questionSets'
 
 import styles from '../styles/Home.module.css'
 
 import FlashcardContainer from '../containers/FlashcardContainer'
 import StartMenu from '../components/StartMenu/StartMenu'
+import { IconButton } from '@material-ui/core';
+import ArrowBack from '@material-ui/icons/ArrowBack';
 
 
-const App = ({ questionSet, startQuestionSet }) => {
+const App = ({ questionSet, startQuestionSet, stopQuestionSet }) => {
 	return (
 	<ThemeProvider theme={theme}>
 		<AppBar position="static" style={theme}>
 			<Toolbar>
+				{questionSet.started ? <IconButton onClick={stopQuestionSet}>
+					<ArrowBack style={{color: 'white'}}/>
+				</IconButton> : null}
 				<Typography variant="h6">
 				Latijn
 				</Typography>
@@ -49,5 +54,5 @@ const App = ({ questionSet, startQuestionSet }) => {
 
 export default connect(
 	({ questionSet }) => ({ questionSet }),
-	{ startQuestionSet }
+	{ startQuestionSet, stopQuestionSet }
 )(App)

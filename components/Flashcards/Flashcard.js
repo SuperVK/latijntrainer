@@ -43,7 +43,7 @@ const Flashcard = ({ question, onNextQuestion }) => {
 				setDutchInput('')
 			}}/>
 			{visibility != 'COMPARE' ? <ShowTranslation visibility={visibility} onClick={setVisibility}/> : null}
-			{visibility != 'COMPARE' ? <CheckAnswer onCheckAnswer={() => setVisibility('COMPARE')}></CheckAnswer> : null}
+			{visibility != 'COMPARE' ? <CheckAnswer disabled={dutchInput == ''} onCheckAnswer={() => setVisibility('COMPARE')}></CheckAnswer> : null}
 		</div>
 	</div>
 }

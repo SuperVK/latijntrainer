@@ -1,4 +1,4 @@
-import { START_QUESTIONS, NEW_QUESTION, REVEAL_DUTCH } from '../actions'
+import { START_QUESTIONS, STOP_QUESTIONS } from '../actions'
 
 export default function questionSet(state = {
 	started: false
@@ -9,6 +9,11 @@ export default function questionSet(state = {
 			return {
 				...state,
 				started: true
+			}
+		case STOP_QUESTIONS:
+			return {
+				...state,
+				started: false
 			}
 		default:
 			return state

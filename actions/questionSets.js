@@ -1,4 +1,4 @@
-import { START_QUESTIONS } from '.'
+import { START_QUESTIONS, STOP_QUESTIONS } from '.'
 import quizMaster from '../src/QuizMaster'
 
 export const startQuestionSet = (checked) => {
@@ -11,5 +11,11 @@ export const startQuestionSet = (checked) => {
 	return {
 		type: START_QUESTIONS,
 		question
+	}
+}
+
+export const stopQuestionSet = () => {
+	return {
+		type: STOP_QUESTIONS
 	}
 }
