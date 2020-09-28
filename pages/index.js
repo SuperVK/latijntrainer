@@ -25,7 +25,7 @@ import { startQuestionSet } from '../actions/questionSets'
 import styles from '../styles/Home.module.css'
 
 import FlashcardContainer from '../containers/FlashcardContainer'
-import StartMenu from '../components/StartMenu'
+import StartMenu from '../components/StartMenu/StartMenu'
 
 
 const App = ({ questionSet, startQuestionSet }) => {
@@ -43,6 +43,7 @@ const App = ({ questionSet, startQuestionSet }) => {
 		</div>
 
 	</ThemeProvider>
+
 )}
 
 

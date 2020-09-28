@@ -1,7 +1,9 @@
 import { START_QUESTIONS } from '.'
 import quizMaster from '../src/QuizMaster'
 
-export const startQuestionSet = () => {
+export const startQuestionSet = (checked) => {
+	quizMaster.setSelectedGroup(checked)
+
 	quizMaster.newQuestion()
 
 	let question = quizMaster.getQuestion()

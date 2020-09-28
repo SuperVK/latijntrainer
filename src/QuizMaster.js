@@ -1,15 +1,29 @@
-import questions4_1 from './4.1.json'
+import questions from './latijn.json'
 
 class QuizMaster {
 	constructor(questions) {
 		this.questions = questions
 
 		this.currentIndex
+
+		this.selectedQuestions = []
+		
+		this.selectedGroups = [0]
+	}
+
+	getLabels() {
+		return questions.map(q => q.label)
+	}
+
+	setSelectedGroup(selectedGroups) {
+		this.selectedQuestions = this.questions.filter((_, index) => selectedGroups.includes(index)).map(q => q.translations).flat()
+
+		this.selectedGroups = selectedGroups
 	}
 
 	newQuestion() {
 
-		let wordgroupIndex = Math.floor(Math.random()*this.questions.length)
+		let wordgroupIndex = Math.floor(Math.random()*this.selectedQuestions.length)
 
 		this.currentIndex = wordgroupIndex
 
@@ -18,11 +32,11 @@ class QuizMaster {
 	getQuestion() {
 		return {
 			latin: {
-				before: this.questions[this.currentIndex-1] && this.questions[this.currentIndex-1][0],
-				question: this.questions[this.currentIndex][0],
-				after: this.questions[this.currentIndex+1] && this.questions[this.currentIndex+1][0]
+				before: this.selectedQuestions[this.currentIndex-1] && this.selectedQuestions[this.currentIndex-1][0],
+				question: this.selectedQuestions[this.currentIndex][0],
+				after: this.selectedQuestions[this.currentIndex+1] && this.selectedQuestions[this.currentIndex+1][0]
 			},
-			dutchTranslation: this.questions[this.currentIndex][1],
+			dutch: this.selectedQuestions[this.currentIndex][1],
 			index: this.currentIndex
 		}
 	}
@@ -31,5 +45,5 @@ class QuizMaster {
 	}
 }
 
-export default (new QuizMaster(questions4_1))
+export default (new QuizMaster(questions))
 
