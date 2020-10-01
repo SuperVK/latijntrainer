@@ -4,4 +4,5 @@ export const TOGGLE_DUTCH = 'TOGGLE_DUTCH'
 export const NEW_QUESTION = 'NEW_QUESTION'
 export const START_QUESTIONS = 'START_QUESTIONS'
 export const STOP_QUESTIONS = 'STOP_QUESTIONS'
+export const SET_CHECKED = 'SET_CHECKED'
 

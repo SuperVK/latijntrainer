@@ -7,10 +7,10 @@ import styles from '../../styles/StartMenu.module.css'
 import quizMaster from '../../src/QuizMaster'
 let labels = quizMaster.getLabels()
 
-const StartMenu = ({ start }) => {
+const StartMenu = ({ start, checked, setChecked }) => {
 	
 
-    const [checked, setChecked] = React.useState([]);
+    // const [checked, setChecked] = React.useState([]);
 
     const handleToggle = (value) => () => {
         const currentIndex = checked.indexOf(value);

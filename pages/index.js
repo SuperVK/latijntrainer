@@ -28,6 +28,7 @@ import FlashcardContainer from '../containers/FlashcardContainer'
 import StartMenu from '../components/StartMenu/StartMenu'
 import { IconButton } from '@material-ui/core';
 import ArrowBack from '@material-ui/icons/ArrowBack';
+import StartMenuContainer from '../containers/StartMenuContainer';
 
 
 const App = ({ questionSet, startQuestionSet, stopQuestionSet }) => {
@@ -44,7 +45,7 @@ const App = ({ questionSet, startQuestionSet, stopQuestionSet }) => {
 			</Toolbar>
 		</AppBar>
 		<div className={styles.Content}>
-			{questionSet.started ? <FlashcardContainer/> : <StartMenu start={startQuestionSet}/>}
+			{questionSet.started ? <FlashcardContainer/> : <StartMenuContainer start={startQuestionSet}/>}
 		</div>
 
 	</ThemeProvider>
