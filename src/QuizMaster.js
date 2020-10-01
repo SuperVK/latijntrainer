@@ -4,7 +4,7 @@ class QuizMaster {
 	constructor(questions) {
 		this.questions = questions
 
-		this.currentIndex
+		this.currentIndex = 0;
 
 		this.selectedQuestions = []
 		
@@ -19,15 +19,14 @@ class QuizMaster {
 		this.selectedQuestions = this.questions.filter((_, index) => selectedGroups.includes(index)).map(q => q.translations).flat()
 
 		this.selectedGroups = selectedGroups
+		this.currentIndex = -1
 	}
 
 	newQuestion() {
 
-		let wordgroupIndex = Math.floor(Math.random()*this.selectedQuestions.length)
+		this.currentIndex++
 
-		this.currentIndex = wordgroupIndex
-
-
+		if(this.currentIndex >= this.selectedQuestions.length) this.currentIndex = 0
 	}
 	getQuestion() {
 		return {
