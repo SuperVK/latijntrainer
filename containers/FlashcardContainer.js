@@ -1,17 +1,18 @@
 import Flashcard from '../components/Flashcards/Flashcard'
 import { connect } from 'react-redux'
 
-import { nextQuestion } from '../actions/questions'
+import { nextQuestion, sameQuestion } from '../actions/questions'
 
-const FlashcardContainer = ({ question, nextQuestion }) => {
+const FlashcardContainer = ({ question, nextQuestion, sameQuestion }) => {
 		return (
 		<Flashcard
 			onNextQuestion={nextQuestion}
+			onSameQuestion={sameQuestion}
 			question={question}
 		/>
 		)}
 
 export default connect(
 	({ question }) => ({ question }),
-	{ nextQuestion }
+	{ nextQuestion, sameQuestion }
 )(FlashcardContainer)

@@ -28,3 +28,11 @@ export const nextQuestion = () => {
 		question
 	}
 }
+
+export const sameQuestion = () => {
+	let question = quizMaster.getQuestion()
+	return {
+		type: NEW_QUESTION,
+		question
+	}
+}

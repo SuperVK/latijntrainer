@@ -2,6 +2,7 @@ import TextDisplay from './LatinText'
 import DutchInput from './DutchInput'
 import ShowTranslation from './ShowTranslation'
 import NextQuestion from './NextQuestion'
+import SameQuestion from './SameQuestion'
 import DutchTranslation from './DutchTranslation'
 import CheckAnswer from './CheckAnswer'
 
@@ -13,7 +14,7 @@ import { connect } from 'react-redux'
 
 import styles from '../../styles/Flashcards.module.css'
 
-const Flashcard = ({ question, onNextQuestion }) => {
+const Flashcard = ({ question, onNextQuestion, onSameQuestion }) => {
 
 	const [visibility, setVisibility] = useState('INVISIBLE')
 
@@ -42,6 +43,11 @@ const Flashcard = ({ question, onNextQuestion }) => {
 				setVisibility('INVISIBLE')
 				setDutchInput('')
 			}}/>
+			{visibility == 'COMPARE' ? <SameQuestion onClick={() => {
+				onSameQuestion()
+				setVisibility('INVISIBLE')
+				setDutchInput('')
+			}}/> : null}
 			{visibility != 'COMPARE' ? <ShowTranslation visibility={visibility} onClick={setVisibility}/> : null}
 			{visibility != 'COMPARE' ? <CheckAnswer disabled={dutchInput == ''} onCheckAnswer={() => setVisibility('COMPARE')}></CheckAnswer> : null}
 		</div>
