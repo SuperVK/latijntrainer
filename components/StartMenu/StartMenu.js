@@ -5,7 +5,9 @@ import QuestionSelection from './QuestionSelection'
 import styles from '../../styles/StartMenu.module.css'
 
 import quizMaster from '../../src/QuizMaster'
-let labels = quizMaster.getLabels()
+let labels1 = quizMaster.getLabels1()
+let labels2 = quizMaster.getLabels2()
+
 
 const StartMenu = ({ start, checked, setChecked }) => {
 	
@@ -27,7 +29,7 @@ const StartMenu = ({ start, checked, setChecked }) => {
 
 	return <div className={styles.StartMenu}>
 		<div style={{height: '10px'}}></div>
-		<QuestionSelection labels={labels} handleToggle={handleToggle} checked={checked}></QuestionSelection>
+		<QuestionSelection labels1={labels1} labels2={labels2} handleToggle={handleToggle} checked={checked}></QuestionSelection>
 		<StartButton disabled={checked.length == 0} onClick={() => start(checked)}></StartButton>
 	</div>
 }

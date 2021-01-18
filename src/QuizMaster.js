@@ -1,8 +1,13 @@
-import questions from './latijn.json'
+import ovlett1 from './ovlett1.json'
+import ovlett2 from './ovlett2.json'
 
 class QuizMaster {
-	constructor(questions) {
-		this.questions = questions
+	constructor(ovlett1, ovlett2) {
+		this.ovlett1 = ovlett1;
+
+		this.ovlett2 = ovlett2;
+
+		this.questions = [...ovlett1, ...ovlett2];
 
 		this.currentIndex = 0;
 
@@ -11,12 +16,19 @@ class QuizMaster {
 		this.selectedGroups = [0]
 	}
 
-	getLabels() {
-		return questions.map(q => q.label)
+	getLabels1() {
+		return this.ovlett1.map(q => q.label)
+	}
+
+	getLabels2() {
+		return this.ovlett2.map(q => q.label)
 	}
 
 	setSelectedGroup(selectedGroups) {
-		this.selectedQuestions = this.questions.filter((_, index) => selectedGroups.includes(index)).map(q => q.translations).flat()
+		this.selectedQuestions = this.questions
+			.filter((_, index) => selectedGroups.includes(index))
+			.map(q => q.translations)
+			.flat()
 
 		this.selectedGroups = selectedGroups
 		this.currentIndex = -1
@@ -44,5 +56,5 @@ class QuizMaster {
 	}
 }
 
-export default (new QuizMaster(questions))
+export default (new QuizMaster(ovlett1, ovlett2))
 
