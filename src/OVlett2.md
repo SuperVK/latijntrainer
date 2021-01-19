@@ -1,0 +1,50 @@
+# 4.2 De gemeenteraad van Ameria stuurt een gezantschap naar Sulla (par. 24-25, pag. 62)
+Quod Amerinis usque eo visum est indignum ut urbe tota fletus gemitusque fieret.
+> Dit scheen de inwoners van Ameria zozeer onwaardig dat in de hele stad geween en gejammer ontstond.
+
+Etenim multa simul ante oculos versabantur: 
+> Vele dingen tegelijk deden zich immers voor hun ogen voor:
+
+mors hominis florentissimi Sex. Rosci crudelissima, fili autem eius egestas indignissima, 
+> de zeer wrede dood van de zeer vooraanstaande man Sex. Roscius, en verder de zeer onwaardige armoede van zijn zoon,
+
+cui de tanto patrimonio praedo iste nefarius ne iter quidem ad sepulcrum patrium reliquisset,
+> aan wie van dat zo grote vaderlijk erfgoed die schandelijke rover zelfs niet de tocht naar het graf van zijn vader had overgelaten,
+
+bonorum emptio flagitiosa, possessio, furta, rapinae, donationes.
+> de schandelijke aankoop van de goederen, de inbezitneming, de diefstallen, de roofpartijen, de schenkingen.
+
+Nemo erat qui non ardere omnia mallet quam videre in Sex. Rosci viri optimi atque honestissimi, bonis iactantem se ac dominantem T. Roscium.
+> Er was niemand die niet liever wilde dat alles in brand stond dan te zien dat in de bezittingen van de voortreffelijke en zeer eerbiedwaardige man Sex. Roscius T. Roscius praalde en de baas speelde. 
+
+Itaque decurionum decretum statim fit ut decem primi proficiscantur ad L. Sullam doceantque eum
+> Dus wordt er direct een decreet van de gemeenteraad opgesteld (gemaakt) dat tien vooraanstaanden naar Sulla vertrekken en hem inlichten over,
+
+qui vir Sex. Roscius fuerit, conquerantur de istorum scelere et iniuriis, orent ut et illius mortui famam et fili innocentis fortunas conservatas velit.
+> wat voor een (welke) man Sex. Roscius geweest is, hun beklag doen over hun misdaad en onrechten, [hem] te verzoeken dat hij wil dat zowel de reputatie van die dode als het bezit van diens onschuldige zoon behouden blijven (zijn).
+
+Atque ipsum decretum, quaeso, cognoscite.
+> En neem kennis, vraag ik u, van het decreet zelf.
+
+# 4.2 De gezanten worden misleid (par 25-26, pag. 64)
+Legati in castra veniunt.
+> De gezanten komen in het legerkamp.
+
+Intellegitur, iudices, id quod iam ante dixi, imprudente L. Sulla scelera haec et flagitia fieri.
+> Men begrijpt, heren rechters, hetgeen ik al eerder zei, dat deze misdaden en schanddaden buiten medeweten van L. Sulla plaatsvonden.
+
+Nam statim Chrysogonus et ipse ad eos accedit et homines nobiles allegat qui peterent ne ad Sullam adirent et omnia Chrysogonum quae vellent esse facturum pollicerentur.
+> Want meteen komt Chrysogonus ook zelf naar hen toe en stuurt aanzienlijke mannen die moesten vragen dat ze niet naar Sulla zouden gaan en moesten beloven dat Chrysogonus alles zou doen wat zij wilden: 
+
+Usque adeo autem ille pertimuerat ut mori mallet quam de his rebus Sullam doceri.
+> zo bang echter was die geworden dat hij liever wilde sterven dan dat over deze zaken Sulla geïnformeerd werd.
+
+Homines antiqui qui ex sua natura ceteros fingerent, cum ille confirmaret sese nomen Sex. Rosci de tabulis exempturum,
+> De mannen van de oude stempel, die nu eenmaal dachten dat andere mensen net zo’n karakter hadden als zijzelf, geloofden het, toen hij verzekerde dat hij de naam van Sex. Roscius van de lijsten zou verwijderen,
+
+praedia vacua filio traditurum, cumque id ita futurum T. Roscius Capito, qui in decem legatis erat, appromitteret, crediderunt;
+> de landgoederen vrij aan de zoon zou overdragen, en toen T. Roscius Capito, die onder de tien gezanten was, zijn belofte toevoegde dat het zo zou gebeuren; 
+
+Ameriam re inorata reverterunt.
+> ze keerden terug naar Ameria zonder hun zaak te hebben voorgelegd.
+
