@@ -56,7 +56,7 @@ insidias vitae huiusce Sex. Rosci parare neque sese arbitrari posse diutius alie
 > een hinderlaag tegen (voor) het leven van deze Sextus Roscius hier te beramen en te menen dat zij niet langer andermans geld in bezit konden houden zolang de eigenaar ervan ongedeerd was. 
 
 Quod hic simul atque sensit, de amicorum cognatorumque sententia Romam confugit et sese ad Caeciliam, Nepotis sororem, Baliarici filiam,
-> Zodra mijn cliënt (deze hier) dit bemerkte, vluchtte hij op advies van vrienden en familieleden naar Rome en 100 begaf zich naar Caecilia, de zuster van Nepos, de dochter van Baliaricus,
+> Zodra mijn cliënt (deze hier) dit bemerkte, vluchtte hij op advies van vrienden en familieleden naar Rome en begaf zich naar Caecilia, de zuster van Nepos, de dochter van Baliaricus,
 
 quam honoris causa nomino, contulit, qua pater usus erat plurimum.
 > die ik noem omwille van de eer (met hoogachting), met wie zijn vader zeer bevriend was geweest. 
@@ -78,7 +78,7 @@ Nam postquam isti intellexerunt summa diligentia vitam Sex. Rosci custodiri nequ
 > Want nadat zij begrepen hadden dat het leven van Sex. Roscius met de hoogste nauwgezetheid bewaakt werd en dat hun geen enkele mogelijkheid werd gegeven om de moord te plegen,
 
 consilium ceperunt plenum sceleris et audaciae ut nomen huius de parricidio deferrent,
-> vatten ze een plan op vol van misdaad en brutaliteit om hem 110 aan te geven vanwege vadermoord,
+> vatten ze een plan op vol van misdaad en brutaliteit om hem aan te geven vanwege vadermoord,
 
 ut ad eam rem aliquem accusatorem veterem compararent qui de ea re posset dicere aliquid in qua re nulla subesset suspicio,
 > om voor die zaak een of andere doorgewinterde aanklager te werven die over die zaak iets zou kunnen zeggen in welke zaak geen enkele [grond voor] verdenking aanwezig was,
@@ -114,11 +114,11 @@ Ac nefa-rium facinus atque eiusmodi quo uno maleficio scelera omnia complexa ess
 Etenim si, id quod praeclare a sapientibus dicitur, vultu saepe laeditur pietas,
 > Als namelijk, dat wat voortreffelijk door de wijzen wordt gezegd, alleen al door een blik dikwijls het respect wordt gekwetst,
 
-quod supplicium satis acre reperietur in eum qui mortem obtulerit parenti, pro quo mori ipsum, si res postularet,
-> welke voldoende strenge straf zal dan gevonden worden tegen hem die 5 de dood heeft aangedaan aan zijn vader voor wie het goddelijke en het menselijk recht [hem] hadden moeten dwingen zelf te sterven,
+quod supplicium satis acre reperietur in eum qui mortem obtulerit parenti,
+> welke voldoende strenge straf zal dan gevonden worden tegen hem die de dood heeft aangedaan aan zijn vader 
 
-iura divina atque humana cogebant?
-> als de situatie dat geëist zou hebben? 
+pro quo mori ipsum, si res postularet, iura divina atque humana cogebant?
+> voor wie het goddelijke en het menselijk recht [hem] hadden moeten dwingen zelf te sterven, als de situatie dat geëist zou hebben? 
 
 In hoc tanto, tam atroci, tam singulari maleficio, quod ita raro exstitit ut, si quando auditum sit,
 > In deze zo grote, zo gruwelijke, zo uitzonderlijke wandaad, die zo zelden is voorgekomen dat, als er eens van gehoord is,
@@ -127,11 +127,61 @@ portenti ac prodigi simile numeretur, quibus tandem tu, C. Eruci, argumentis acc
 > hij beschouwd wordt als gelijk aan een huiveringwekkend voorteken en een wonderteken, wat voor argumenten denkt u [dan] eigenlijk, C. Erucius, dat de aanklager [daarbij] moet gebruiken?
 
 Nonne et audaciam eius qui in crimen vocetur singularem ostendere et mores feros immanemque naturam et vitam vitiis flagitiisque omnibus deditam,
-> Moet hij niet en de uitzonderlijke overmoed van hem die wordt aangeklaagd tonen en 10 zijn wilde karakter en zijn onmenselijke aard en een leven overgegeven aan alle fouten en schanddaden,
+> Moet hij niet en de uitzonderlijke overmoed van hem die wordt aangeklaagd tonen en zijn wilde karakter en zijn onmenselijke aard en een leven overgegeven aan alle fouten en schanddaden,
 
 denique omnia ad perniciem profligata atque perdita?
 > tenslotte alles tot aan de ondergang weggezonken en verdorven?
 
 Quorum tu nihil in Sex. Roscium ne obiciendi quidem causa contulisti.
 > Niets van die dingen hebt u tegen Sex. Roscius, zelfs niet om een ongegrond verwijt te maken, ingebracht.
+
+### 4.5.1 Wat voor een man is Sextus Roscius eigenlijk? (par. 39, pag. 75)
+Patrem occidit Sex. Roscius.
+> Sex. Roscius heeft zijn vader gedood. 
+
+Qui homo?
+> Wat voor een man [is hij]?
+
+Adulescentulus corruptus et ab hominibus nequam inductus?
+> Een verdorven en door liederlijke mensen opgestookt jongemannetje?
+
+Annos natus maior quadraginta.
+> Hij is meer dan veertig jaar oud.
+
+Vetus videlicet sicarius, homo audax et saepe in caede versatus?
+> Een oude sluipmoordenaar natuurlijk, een overmoedig man en dikwijls betrokken bij moord? 
+
+At hoc ab ccusatore ne dici quidem audistis.
+> Maar dit hebben jullie door de aanklager zelfs niet gezegd horen worden.
+
+Luxuries igitur hominem nimirum et aeris alieni magnitudo et indomitae animi cupiditates ad hoc scelus impulerunt?
+> Dus [dan] hebben natuurlijk zijn weeldezucht en de grote omvang van zijn schuld en de teugelloze begeerten van zijn geest de man tot deze misdaad aangezet?
+
+De luxuria purgavit Erucius cum dixit hunc ne in convivio quidem ullo fere interfuisse. 
+> Van [de beschuldiging van] weeldezucht heeft Erucius hem gezuiverd toen hij zei dat hij zelfs bijna bij geen enkel feestmaal aanwezig is geweest.
+
+Nihil autem umquam debuit. 
+> En hij was nooit iets schuldig. 
+
+Cupiditates porro quae possunt esse in eo qui, ut ipse accusator obiecit, ruri semper habitarit et in agro colendo vixerit? 
+> Verder,  welke begeerten kunnen er zijn in hem die, zoals de aanklager zelf [hem] verweet, altijd op het land heeft gewoond en zijn leven heeft doorgebracht met het verzorgen van de akker? 
+
+Quae vita maxime disiuncta a cupiditate et cum officio coniuncta est.
+> Dat (zo’n) leven is het meest verwijderd van begeerte en met plicht(sbetrachting) verbonden.
+
+### 4.5.1 Werd Sextus Roscius door zijn vader gehaat, zoals Erucius beweert?
+Quae res igitur tantum istum furorem Sex. Roscio obiecit?
+> Welke zaak dus heeft Sex. Roscius die zo grote woede ingegeven?
+
+‘Patri’ inquit ‘non placebat.’
+> ‘Hij behaagde’, zegt hij, ‘zijn vader niet.’
+
+Patri non placebat? Quam ob causam?
+> Zijn vader hield niet van hem? Om welke reden? 
+
+Necesse est enim eam quoque iustam et magnam et perspicuam fuisse.
+> Want het is noodzakelijk dat die (reden)  ook gerechtvaardigd en groot (ernstig) en duidelijk is geweest. 
+
+undefined
+> undefined
 
