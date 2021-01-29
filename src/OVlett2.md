@@ -333,3 +333,44 @@ Quid est aliud iudicio ac legibus ac maiestate vestra abuti ad quaestum atque ad
 nisi hoc modo accusare atque id obicere quod planum facere non modo non possis verum ne coneris quidem?
 > als [het] niet [is] op deze manier [iemand] te beschuldigen en [hem] dat te verwijten wat u niet alleen niet kunt duidelijk maken maar zelfs niet probeert?
 
+### 4.5.8 De persoon van T. Roscius Magnus (par. 83, pag. 99)
+Venio nunc eo quo me non cupiditas ducit sed fides.
+> Ik kom nu op een punt (daar) waar niet mijn voorkeur mij brengt maar mijn loyaliteit.
+
+Nam si mihi liberet accusare, accusarem alios potius ex quibus possem crescere;
+> Want als ik er plezier in zou hebben om aan te klagen, [dan] zou ik liever anderen aanklagen ten gevolge van wie ik in aanzien zou kunnen stijgen;
+
+quod certum est non facere dum utrumvis licebit. 
+> ik ben vastbesloten dat niet te doen zolang als ik zal kunnen kiezen tussen beide (elk van beide zal mogen).
+
+Is enim mihi videtur amplissimus qui sua virtute in altiorem locum pervenit, non qui ascendit per alterius incommodum et calamitatem.
+> Want hij lijkt mij het meest voortreffelijk die door zijn eigen verdienste een hogere plaats bereikt, niet hij die opklimt door middel van ongeluk en schade van een ander. 
+
+Desinamus aliquando ea scrutari quae sunt inania;
+> Laten we eindelijk eens ophouden met die dingen te onderzoeken die ongegrond zijn;
+
+quaeramus ibi maleficium ubi et est et inveniri potest;
+> laten we de misdaad daar zoeken waar hij [echt] is en waar hij gevonden kan worden;
+
+iam intelleges, Eruci, certum crimen quam multis suspicionibus coarguatur, tametsi neque omnia dicam et leviter unumquidque tangam.
+> [dan] zult u spoedig begrijpen, Erucius, door hoeveel redenen tot verdenking een gegronde aanklacht wordt bewezen, hoewel ik niet alles zal zeggen en ieder punt afzonderlijk licht zal aanroeren. 
+
+Neque enim id facerem, nisi necesse esset, et id erit signi me invitum facere
+> Want zelfs dat zou ik niet doen als het niet nodig zou zijn, en een bewijs (teken) dat ik het tegen mijn zin doe,
+
+quod non persequar longius quam salus huius et mea fides postulabit.
+> zal dít zijn dat ik niet langer zal stilstaan bij een punt dan het behoud van deze [Sextus] en mijn plichtsgevoel zullen vragen.
+
+### 4.5.8 Titus Roscius Magnus had een motief om de moord te plegen (par. 84, pag. 101)
+Causam tu nullam reperiebas in Sex. Roscio; at ego in T. Roscio reperio.
+> U vond geen enkel motief bij Sextus Roscius; maar ik vind die [wel] bij Titus Roscius.
+
+Tecum enim mihi res est, T. Rosci, quoniam istic sedes ac te palam adversarium esse profiteris.
+> Want ik heb met u te maken, Titus Roscius, aangezien u daar zit en openlijk bekent dat u een tegenstander bent.
+
+De Capitone post viderimus si, quemadmodum paratum esse audio, testis prodierit:
+> Over Capito zullen we ons later bekommeren als hij als getuige, zoals ik hoor dat hij klaar staat, naar voren zal zijn gekomen:
+
+tum alias quoque suas palmas cognoscet de quibus me ne audisse quidem suspicatur.
+> dan zal hij ook zijn andere zegepalmen 15 leren kennen waarover hij veronderstelt dat ik daar zelfs niet van gehoord heb.
+
