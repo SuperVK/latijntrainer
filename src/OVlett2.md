@@ -333,7 +333,7 @@ Quid est aliud iudicio ac legibus ac maiestate vestra abuti ad quaestum atque ad
 nisi hoc modo accusare atque id obicere quod planum facere non modo non possis verum ne coneris quidem?
 > als [het] niet [is] op deze manier [iemand] te beschuldigen en [hem] dat te verwijten wat u niet alleen niet kunt duidelijk maken maar zelfs niet probeert?
 
-### 4.5.8 De persoon van T. Roscius Magnus (par. 83, pag. 99)
+### 4.5.8 Het belang van Sextus Roscius komt op de eerste plaats (par. 83, pag. 99)
 Venio nunc eo quo me non cupiditas ducit sed fides.
 > Ik kom nu op een punt (daar) waar niet mijn voorkeur mij brengt maar mijn loyaliteit.
 
@@ -372,5 +372,5 @@ De Capitone post viderimus si, quemadmodum paratum esse audio, testis prodierit:
 > Over Capito zullen we ons later bekommeren als hij als getuige, zoals ik hoor dat hij klaar staat, naar voren zal zijn gekomen:
 
 tum alias quoque suas palmas cognoscet de quibus me ne audisse quidem suspicatur.
-> dan zal hij ook zijn andere zegepalmen 15 leren kennen waarover hij veronderstelt dat ik daar zelfs niet van gehoord heb.
+> dan zal hij ook zijn andere zegepalmen leren kennen waarover hij veronderstelt dat ik daar zelfs niet van gehoord heb.
 
