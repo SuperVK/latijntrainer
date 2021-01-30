@@ -333,7 +333,7 @@ Quid est aliud iudicio ac legibus ac maiestate vestra abuti ad quaestum atque ad
 nisi hoc modo accusare atque id obicere quod planum facere non modo non possis verum ne coneris quidem?
 > als [het] niet [is] op deze manier [iemand] te beschuldigen en [hem] dat te verwijten wat u niet alleen niet kunt duidelijk maken maar zelfs niet probeert?
 
-### 4.5.8 Het belang van Sextus Roscius komt op de eerste plaats (par. 83, pag. 99)
+### 4.5.8 De persoon van T. Roscius Magnus (par. 83, pag. 99)
 Venio nunc eo quo me non cupiditas ducit sed fides.
 > Ik kom nu op een punt (daar) waar niet mijn voorkeur mij brengt maar mijn loyaliteit.
 
@@ -355,11 +355,8 @@ quaeramus ibi maleficium ubi et est et inveniri potest;
 iam intelleges, Eruci, certum crimen quam multis suspicionibus coarguatur, tametsi neque omnia dicam et leviter unumquidque tangam.
 > [dan] zult u spoedig begrijpen, Erucius, door hoeveel redenen tot verdenking een gegronde aanklacht wordt bewezen, hoewel ik niet alles zal zeggen en ieder punt afzonderlijk licht zal aanroeren. 
 
-Neque enim id facerem, nisi necesse esset, et id erit signi me invitum facere
-> Want zelfs dat zou ik niet doen als het niet nodig zou zijn, en een bewijs (teken) dat ik het tegen mijn zin doe,
-
-quod non persequar longius quam salus huius et mea fides postulabit.
-> zal dít zijn dat ik niet langer zal stilstaan bij een punt dan het behoud van deze [Sextus] en mijn plichtsgevoel zullen vragen.
+Neque enim id facerem, nisi necesse esset, et id erit signi me invitum facere quod non persequar longius quam salus huius et mea fides postulabit.
+> Want zelfs dat zou ik niet doen als het niet nodig zou zijn, en een bewijs (teken) dat ik het tegen mijn zin doe, zal dít zijn dat ik niet langer zal stilstaan bij een punt dan het behoud van deze [Sextus] en mijn plichtsgevoel zullen vragen.
 
 ### 4.5.8 Titus Roscius Magnus had een motief om de moord te plegen (par. 84, pag. 101)
 Causam tu nullam reperiebas in Sex. Roscio; at ego in T. Roscio reperio.
@@ -373,4 +370,39 @@ De Capitone post viderimus si, quemadmodum paratum esse audio, testis prodierit:
 
 tum alias quoque suas palmas cognoscet de quibus me ne audisse quidem suspicatur.
 > dan zal hij ook zijn andere zegepalmen leren kennen waarover hij veronderstelt dat ik daar zelfs niet van gehoord heb.
+
+### 4.5.8 L. Cassius: het voorbeeld van een goed rechter
+L. Cassius ille quem populus Romanus verissimum et sapientissimum iudicem putabat identidem in causis quaerere solebat ‘cui bono’ fuisset.
+> Die beroemde L. Cassius, die het Romeinse volk als de meest eerlijke en wijze rechter beschouwde, had de gewoonte telkens weer in rechtszaken te vragen “voor wie het tot voordeel” / “in wiens voordeel” het was geweest.
+
+Sic vita hominum est ut ad maleficium nemo conetur sine spe atque emolumento accedere.
+> Zo is het leven van mensen dat niemand een misdaad gaat beramen (tot een misdaad probeert te komen) zonder hoop op voordeel. 
+
+Hunc quaesitorem ac iudicem fugiebant atque horrebant ii quibus periculum creabatur
+> Zij voor wie een proces dreigde (werd bereid) meden hem als onderzoeksrechter en rechter en waren doodsbang voor hem
+
+ideo quod, tametsi veritatis erat amicus, tamen natura non tam propensus ad misericordiam quam applicatus ad severitatem videbatur.
+> daarom omdat hij, hoewel hij een vriend was van de waarheid, toch van nature niet zozeer geneigd bleek tot medelijden maar eerder gericht op strengheid. 
+
+Ego, [...], tamen facile me paterer vel illo ipso acerrimo iudice quaerente vel apud Cassianos iudices, quorum etiamnunc ii quibus causa dicenda est nomen ipsum reformidant, pro Sex. Roscio dicere.
+> Ik [nu], [...], zou het zonder enige moeite (makkelijk) aanvaarden dat ik Sextus Roscius verdedigde of terwijl die zeer strenge rechter zelf het gerechtelijk onderzoek instelt of bij rechters van het type Cassius, voor wier naam alleen al ook nu nog zij bang zijn die voor het gerecht moeten staan.
+
+quamquam praeest huic quaestioni vir et contra audaciam fortissimus et ab innocentia clementissimus,
+> hoewel aan het hoofd van dit onderzoek een man staat [die] zowel tegenover brutaliteit zeer dapper [is] als zeer mild voor onschuld,
+
+### 4.5.8 Voor die rechters zou de zaak meteen duidelijk zijn: Magnus is onze man
+In hac enim causa cum viderent illos amplissimam pecuniam possidere, hunc in summa mendicitate esse, 
+> Want wanneer zij in deze [huidige] rechtszaak zouden zien dat zij een zeer groot vermogen bezitten,
+
+hunc in summa mendicitate esse, illud quidem non quaererent, cui bono fuisset,
+> (maar) dat hij in de allergrootste armoede verkeert, [dan] zouden zij ongetwijfeld niet hiernaar een onderzoek instellen in wiens voordeel het was geweest, 
+
+sed eo perspicuo crimen et suspicionem potius ad praedam adiungerent quam ad egestatem.
+> maar omdat dat volkomen duidelijk is zouden zij de beschuldiging en de verdenking eerder in verband brengen met de buit dan met de armoede.
+
+Quid si accedit eodem ut tenuis antea fueris? 
+> Wat als daar ook nog eens bijkomt dat u vroeger arm was? 
+
+
+> Dat u hebzuchtig was? Dat u brutaal was?
 

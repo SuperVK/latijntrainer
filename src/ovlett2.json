@@ -542,15 +542,15 @@
         "translations": [
             [
                 "L. Cassius ille quem populus Romanus verissimum et sapientissimum iudicem putabat identidem in causis quaerere solebat ‘cui bono’ fuisset.",
-                "Die beroemde L. Cassius, die het Romeinse volk als de meest eerlijke en wijze rechter be-schouwde, had de gewoonte telkens weer in rechtszaken te vragen “voor wie het tot voordeel” / “in wiens voordeel” het was geweest."
+                "Die beroemde L. Cassius, die het Romeinse volk als de meest eerlijke en wijze rechter beschouwde, had de gewoonte telkens weer in rechtszaken te vragen “voor wie het tot voordeel” / “in wiens voordeel” het was geweest."
             ],
             [
                 "Sic vita hominum est ut ad maleficium nemo conetur sine spe atque emolumento accedere.",
-                "Zo is het leven van mensen dat niemand een misdaad gaat beramen (tot een misdaad pro-beert te komen) zonder hoop op voordeel. "
+                "Zo is het leven van mensen dat niemand een misdaad gaat beramen (tot een misdaad probeert te komen) zonder hoop op voordeel. "
             ],
             [
                 "Hunc quaesitorem ac iudicem fugiebant atque horrebant ii quibus periculum creabatur",
-                "Zij voor wie een proces dreigde (werd bereid) meden hem als onderzoeksrechter en rech-ter en waren doodsbang voor hem"
+                "Zij voor wie een proces dreigde (werd bereid) meden hem als onderzoeksrechter en rechter en waren doodsbang voor hem"
             ],
             [
                 "ideo quod, tametsi veritatis erat amicus, tamen natura non tam propensus ad misericordiam quam applicatus ad severitatem videbatur.",
@@ -563,6 +563,47 @@
             [
                 "quamquam praeest huic quaestioni vir et contra audaciam fortissimus et ab innocentia clementissimus,",
                 "hoewel aan het hoofd van dit onderzoek een man staat [die] zowel tegenover brutaliteit zeer dapper [is] als zeer mild voor onschuld,"
+            ]
+        ]
+    },
+    {
+        "label": "4.5.8 Voor die rechters zou de zaak meteen duidelijk zijn: Magnus is onze man",
+        "translations": [
+            [
+                "In hac enim causa cum viderent illos amplissimam pecuniam possidere, hunc in summa mendicitate esse, ",
+                "Want wanneer zij in deze [huidige] rechtszaak zouden zien dat zij een zeer groot vermogen bezitten,"
+            ],
+            [
+                "hunc in summa mendicitate esse, illud quidem non quaererent, cui bono fuisset,",
+                "(maar) dat hij in de allergrootste armoede verkeert, [dan] zouden zij ongetwijfeld niet hiernaar een onderzoek instellen in wiens voordeel het was geweest, "
+            ],
+            [
+                "sed eo perspicuo crimen et suspicionem potius ad praedam adiungerent quam ad egestatem.",
+                "maar omdat dat volkomen duidelijk is zouden zij de beschuldiging en de verdenking eerder in verband brengen met de buit dan met de armoede."
+            ],
+            [
+                "Quid si accedit eodem ut tenuis antea fueris?",
+                "Wat als daar ook nog eens bijkomt dat u vroeger arm was? "
+            ],
+            [
+                "Quid si ut avarus? Quid si ut audax?",
+                "Dat u hebzuchtig was? Dat u brutaal was?"
+            ],
+            [
+                "Quid si ut illius qui occisus est inimicissimus?",
+                "Dat u hem die vermoord is, zeer vijandig gezind was?"
+            ],
+            [
+                "Num quaerenda causa quae te ad tantum facinus adduxerit?",
+                "Het motief hoeft toch niet gezocht te worden dat u tot zo’n grote misdaad heeft gedreven?"
+            ],
+            [
+                "Quid ergo horum negari potest? ",
+                "Wat van deze [feiten] kan er dus ontkend worden?"
+            ],
+            [
+                "Tenuitas hominis eiusmodi ut dissimulari non queat atque eo magis eluceat quo magis occultatur.",
+                "De armoede van de man is van dien aard dat die niet verhuld kan worden en des te meer naar buiten komt naarmate die meer verborgen wordt."
             ]
         ]
     }
