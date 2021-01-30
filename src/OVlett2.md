@@ -400,9 +400,21 @@ hunc in summa mendicitate esse, illud quidem non quaererent, cui bono fuisset,
 sed eo perspicuo crimen et suspicionem potius ad praedam adiungerent quam ad egestatem.
 > maar omdat dat volkomen duidelijk is zouden zij de beschuldiging en de verdenking eerder in verband brengen met de buit dan met de armoede.
 
-Quid si accedit eodem ut tenuis antea fueris? 
+Quid si accedit eodem ut tenuis antea fueris?
 > Wat als daar ook nog eens bijkomt dat u vroeger arm was? 
 
-
+Quid si ut avarus? Quid si ut audax?
 > Dat u hebzuchtig was? Dat u brutaal was?
+
+Quid si ut illius qui occisus est inimicissimus?
+> Dat u hem die vermoord is, zeer vijandig gezind was?
+
+Num quaerenda causa quae te ad tantum facinus adduxerit?
+> Het motief hoeft toch niet gezocht te worden dat u tot zo’n grote misdaad heeft gedreven?
+
+Quid ergo horum negari potest? 
+> Wat van deze [feiten] kan er dus ontkend worden?
+
+Tenuitas hominis eiusmodi ut dissimulari non queat atque eo magis eluceat quo magis occultatur.
+> De armoede van de man is van dien aard dat die niet verhuld kan worden en des te meer naar buiten komt naarmate die meer verborgen wordt.
 
