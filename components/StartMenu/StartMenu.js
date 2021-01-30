@@ -31,6 +31,7 @@ const StartMenu = ({ start, checked, setChecked }) => {
 		<div style={{height: '10px'}}></div>
 		<QuestionSelection labels1={labels1} labels2={labels2} handleToggle={handleToggle} checked={checked}></QuestionSelection>
 		<StartButton disabled={checked.length == 0} onClick={() => start(checked)}></StartButton>
+        <div style={{height: '20px'}}></div>
 	</div>
 }
 
