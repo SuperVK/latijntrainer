@@ -371,7 +371,7 @@ De Capitone post viderimus si, quemadmodum paratum esse audio, testis prodierit:
 tum alias quoque suas palmas cognoscet de quibus me ne audisse quidem suspicatur.
 > dan zal hij ook zijn andere zegepalmen leren kennen waarover hij veronderstelt dat ik daar zelfs niet van gehoord heb.
 
-### 4.5.8 L. Cassius: het voorbeeld van een goed rechter
+### 4.5.8 L. Cassius: het voorbeeld van een goed rechter (par. 84-85, pag. 102)
 L. Cassius ille quem populus Romanus verissimum et sapientissimum iudicem putabat identidem in causis quaerere solebat ‘cui bono’ fuisset.
 > Die beroemde L. Cassius, die het Romeinse volk als de meest eerlijke en wijze rechter beschouwde, had de gewoonte telkens weer in rechtszaken te vragen “voor wie het tot voordeel” / “in wiens voordeel” het was geweest.
 
@@ -390,8 +390,8 @@ Ego, [...], tamen facile me paterer vel illo ipso acerrimo iudice quaerente vel 
 quamquam praeest huic quaestioni vir et contra audaciam fortissimus et ab innocentia clementissimus,
 > hoewel aan het hoofd van dit onderzoek een man staat [die] zowel tegenover brutaliteit zeer dapper [is] als zeer mild voor onschuld,
 
-### 4.5.8 Voor die rechters zou de zaak meteen duidelijk zijn: Magnus is onze man
-In hac enim causa cum viderent illos amplissimam pecuniam possidere, hunc in summa mendicitate esse, 
+### 4.5.8 Voor die rechters zou de zaak meteen duidelijk zijn: Magnus is onze man (par. 86, pag. 104)
+In hac enim causa cum viderent illos amplissimam pecuniam possidere,
 > Want wanneer zij in deze [huidige] rechtszaak zouden zien dat zij een zeer groot vermogen bezitten,
 
 hunc in summa mendicitate esse, illud quidem non quaererent, cui bono fuisset,
@@ -417,4 +417,39 @@ Quid ergo horum negari potest?
 
 Tenuitas hominis eiusmodi ut dissimulari non queat atque eo magis eluceat quo magis occultatur.
 > De armoede van de man is van dien aard dat die niet verhuld kan worden en des te meer naar buiten komt naarmate die meer verborgen wordt.
+
+### 4.5.8 Een laag karakter (par. 87, pag. 105)
+Avaritiam praefers qui societatem coieris de municipis cognatique fortunis cum alienissimo.
+> U laat uw hebzucht zien omdat u over het bezit van een stadgenoot en bloedverwant een verbond bent aangegaan met een wildvreemde.
+
+Quam sis audax, ut alia obliviscar,
+> Hoe brutaal u bent, om van de rest maar te zwijgen (opdat ik de andere dingen vergeet),
+
+hinc omnes intellegere potuerunt quod ex tota societate, hoc est ex tot sicariis, 
+> hebben allen hieruit kunnen opmaken dat van de hele club, dat wil zeggen (dat is) van zoveel moordenaars,
+
+solus tu inventus es qui cum accusatoribus sederes atque os tuum non modo ostenderes sed etiam offerres.
+> u als enige bereid gevonden bent om bij de aanklagers te zitten en niet alleen uw onbeschaamde blik te tonen maar er ook mee te showen.
+
+Inimicitias tibi fuisse cum Sex. Roscio et magnas rei familiaris controversias concedas necesse est.
+> Dat er een vijandschap bestond tussen u en Sextus Roscius en grote onenigheden over familievermogen moet u wel toegeven.
+
+### 4.5.8 Blijft over de vraag: wie is de echte moordenaar? (par. 88, pag. 106)
+Restat, iudices, ut hoc dubitemus, uter potius Sex. Roscium occiderit,
+> Blijft nog over, heren rechters, dat wij hierover nadenken wie van beiden waarschijnlijker (eerder) Sex. Roscius heeft vermoord,
+
+is ad quem morte eius divitiae venerint, an is ad quem mendicitas,
+> degene naar wie door de dood van hem de rijkdom is gekomen, of hij bij wie de armoede [terecht is gekomen],
+
+is qui antea tenuis fuerit, an is qui postea factus sit egentissimus,
+> degene die vroeger arm was of hij die later heel erg arm werd, 
+
+is qui ardens avaritia feratur infestus in suos, an is qui semper ita vixerit ut quaestum nosset nullum, fructum autem eum solum quem labore peperisset,
+> degene die brandend van hebzucht zich vijandig stort op de zijnen, of hij die altijd zo heeft geleefd dat hij geen enkele winst kende maar alleen die opbrengst die hij door werk had verworven,
+
+is qui omnium sectorum audacissimus sit, an is qui propter fori iudiciorumque insolentiam non modo subsellia verum etiam urbem ipsam reformidet,
+> degene die van alle opkopers de brutaalste is, of hij die vanwege zijn onbekendheid met het forum en processen niet alleen bang is voor de zitbanken maar ook voor de stad zelf, 
+
+postremo, iudices, id quod ad rem mea sententia maxime pertinet, utrum inimicus potius an filius.
+> ten slotte, heren rechters, dat wat naar mijn mening het belangrijkste is in deze zaak (de zaak het meest aangaat), of de vijand of eerder de zoon.
 

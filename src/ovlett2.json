@@ -608,11 +608,11 @@
         ]
     },
     {
-        "label": "4.5.8 Een laag karakter",
+        "label": "4.5.8 Een laag karakter (par. 87, pag. 105)",
         "translations": [
             [
                 "Avaritiam praefers qui societatem coieris de municipis cognatique fortunis cum alienissimo.",
-                "U laat uw hebzucht zien omdat u over het bezit van een stadgenoot en bloedverwant een ver-bond bent aangegaan met een wildvreemde."
+                "U laat uw hebzucht zien omdat u over het bezit van een stadgenoot en bloedverwant een verbond bent aangegaan met een wildvreemde."
             ],
             [
                 "Quam sis audax, ut alia obliviscar,",
@@ -624,11 +624,40 @@
             ],
             [
                 "solus tu inventus es qui cum accusatoribus sederes atque os tuum non modo ostenderes sed etiam offerres.",
-                "u als enige bereid gevonden bent om bij de aanklagers te zitten en niet alleen uw onbe-schaamde blik te tonen maar er ook mee te showen."
+                "u als enige bereid gevonden bent om bij de aanklagers te zitten en niet alleen uw onbeschaamde blik te tonen maar er ook mee te showen."
             ],
             [
                 "Inimicitias tibi fuisse cum Sex. Roscio et magnas rei familiaris controversias concedas necesse est.",
                 "Dat er een vijandschap bestond tussen u en Sextus Roscius en grote onenigheden over familievermogen moet u wel toegeven."
+            ]
+        ]
+    },
+    {
+        "label": "4.5.8 Blijft over de vraag: wie is de echte moordenaar? (par. 88, pag. 106)",
+        "translations": [
+            [
+                "Restat, iudices, ut hoc dubitemus, uter potius Sex. Roscium occiderit,",
+                "Blijft nog over, heren rechters, dat wij hierover nadenken wie van beiden waarschijnlijker (eerder) Sex. Roscius heeft vermoord,"
+            ],
+            [
+                "is ad quem morte eius divitiae venerint, an is ad quem mendicitas,",
+                "degene naar wie door de dood van hem de rijkdom is gekomen, of hij bij wie de armoede [terecht is gekomen],"
+            ],
+            [
+                "is qui antea tenuis fuerit, an is qui postea factus sit egentissimus,",
+                "degene die vroeger arm was of hij die later heel erg arm werd, "
+            ],
+            [
+                "is qui ardens avaritia feratur infestus in suos, an is qui semper ita vixerit ut quaestum nosset nullum, fructum autem eum solum quem labore peperisset,",
+                "degene die brandend van hebzucht zich vijandig stort op de zijnen, of hij die altijd zo heeft geleefd dat hij geen enkele winst kende maar alleen die opbrengst die hij door werk had verworven,"
+            ],
+            [
+                "is qui omnium sectorum audacissimus sit, an is qui propter fori iudiciorumque insolentiam non modo subsellia verum etiam urbem ipsam reformidet,",
+                "degene die van alle opkopers de brutaalste is, of hij die vanwege zijn onbekendheid met het forum en processen niet alleen bang is voor de zitbanken maar ook voor de stad zelf, "
+            ],
+            [
+                "postremo, iudices, id quod ad rem mea sententia maxime pertinet, utrum inimicus potius an filius.",
+                "ten slotte, heren rechters, dat wat naar mijn mening het belangrijkste is in deze zaak (de zaak het meest aangaat), of de vijand of eerder de zoon."
             ]
         ]
     }
