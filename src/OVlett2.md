@@ -453,3 +453,56 @@ is qui omnium sectorum audacissimus sit, an is qui propter fori iudiciorumque in
 postremo, iudices, id quod ad rem mea sententia maxime pertinet, utrum inimicus potius an filius.
 > ten slotte, heren rechters, dat wat naar mijn mening het belangrijkste is in deze zaak (de zaak het meest aangaat), of de vijand of eerder de zoon.
 
+### 4.5.10 Magnus was in Rome ten tijde van de moord (par. 92, pag. 110)
+Video igitur causas esse permultas quae istum impellerent;
+> Ik zie dus dat er zeer veel motieven zijn die hem [daartoe] [konden] aanzetten;
+
+videamus nunc ecquae facultas suscipiendi malefici fuerit.
+> laten we nu zien of er wel enige gelegenheid is geweest om een misdaad te begaan.
+
+Ubi occisus est Sex. Roscius?
+> Waar is Sextus Roscius gedood?
+
+– ‘Romae.’ –- Quid? Tu, T. Rosci, ubi tunc eras?
+> – ‘In Rome’ – En dan? U, T. Roscius, waar was u toen?
+
+‘Romae. Verum quid ad rem? Et alii multi.’
+> ‘In Rome. Maar wat heeft dat met de zaak te maken? Ook vele anderen [waren daar]’.
+
+Quasi nunc id agatur quis ex tanta multitudine occiderit,
+> Net alsof dit nu gedaan wordt (het nu daarover gaat) wie uit zo’n grote massa de moord heeft begaan
+
+ac non hoc quaeratur, eum qui Romae sit occisus utrum verisimilius sit ab eo esse occisum qui assiduus eo tempore Romae fuerit,
+> en niet [eerder] dit wordt onderzocht of het waarschijnlijker is dat hij, die in Rome is vermoord, gedood is door degene die in die tijd ononderbroken in Rome was
+
+an ab eo qui multis annis Romam omnino non accesserit.
+> of door degene die [al] vele jaren helemaal niet in de buurt van Rome is geweest. (Rome in het geheel niet genaderd is.)
+
+### 4.5.10 Twee types moordenaars (par. 93, pag. 112)
+Age nunc ceteras quoque facultates consideremus. 
+> Vooruit laten we nu ook de overige mogelijkheden bekijken. 
+
+Erat tum multitudo sicariorum, id quod commemoravit Erucius, et homines impune occidebantur.
+> Er was toen een massa aan moordenaars, (dat) wat Erucius heeft vermeld, en mensen werden ongestraft vermoord.
+
+Quid? Ea multitudo quae erat? 
+> En dan? Die massa, wat was dat [voor een massa]?
+
+Opinor aut eorum qui in bonis erant occupati aut eorum qui ab iis conducebantur ut aliquem occiderent.
+> Ik denk of [een massa] bestaande uit hen die 60 in beslag genomen waren bij het kopen van goederen of bestaande uit hen die door dezen in dienst genomen werden om iemand te ver-moorden. 
+
+Si eos putas qui alienum appetebant, tu es in eo numero qui nostra pecunia dives es;
+> Als u hen bedoelt die uit waren op andermans bezit, [dan] behoort u tot dat aantal, u die door ons geld rijk bent; 
+
+sin eos quos qui leviore nomine appellant percussores vocant, quaere in cuius fide sint et clientela;
+> als u echter hen bedoelt, die [zij] die [hen] met een vriendelijker naam betitelen, doodstekers noemen, onderzoek [dan eens] onder wiens bescherming zij staan en aan wie zij als cliënt verplichtingen hebben;
+
+mihi crede, aliquem de societate tua reperies;
+> geloof me, u zult iemand uit uw eigen gelederen vinden;
+
+et, quicquid tu contra dixeris, id cum defensione nostra contendito;
+> en, wat u ook maar er tegenin zult zeggen, dat zult u moeten vergelijken met onze verdediging;
+
+ita facillime causa Sex. Rosci cum tua conferetur.
+> zo zal de zaak van Sex. Roscius zeer gemakkelijk tegenover de uwe gesteld worden.
+
