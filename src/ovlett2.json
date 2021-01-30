@@ -570,7 +570,7 @@
         "label": "4.5.8 Voor die rechters zou de zaak meteen duidelijk zijn: Magnus is onze man (par. 86, pag. 104)",
         "translations": [
             [
-                "In hac enim causa cum viderent illos amplissimam pecuniam possidere, hunc in summa mendicitate esse, ",
+                "In hac enim causa cum viderent illos amplissimam pecuniam possidere,",
                 "Want wanneer zij in deze [huidige] rechtszaak zouden zien dat zij een zeer groot vermogen bezitten,"
             ],
             [
@@ -604,6 +604,31 @@
             [
                 "Tenuitas hominis eiusmodi ut dissimulari non queat atque eo magis eluceat quo magis occultatur.",
                 "De armoede van de man is van dien aard dat die niet verhuld kan worden en des te meer naar buiten komt naarmate die meer verborgen wordt."
+            ]
+        ]
+    },
+    {
+        "label": "4.5.8 Een laag karakter",
+        "translations": [
+            [
+                "Avaritiam praefers qui societatem coieris de municipis cognatique fortunis cum alienissimo.",
+                "U laat uw hebzucht zien omdat u over het bezit van een stadgenoot en bloedverwant een ver-bond bent aangegaan met een wildvreemde."
+            ],
+            [
+                "Quam sis audax, ut alia obliviscar,",
+                "Hoe brutaal u bent, om van de rest maar te zwijgen (opdat ik de andere dingen vergeet),"
+            ],
+            [
+                "hinc omnes intellegere potuerunt quod ex tota societate, hoc est ex tot sicariis, ",
+                "hebben allen hieruit kunnen opmaken dat van de hele club, dat wil zeggen (dat is) van zoveel moordenaars,"
+            ],
+            [
+                "solus tu inventus es qui cum accusatoribus sederes atque os tuum non modo ostenderes sed etiam offerres.",
+                "u als enige bereid gevonden bent om bij de aanklagers te zitten en niet alleen uw onbe-schaamde blik te tonen maar er ook mee te showen."
+            ],
+            [
+                "Inimicitias tibi fuisse cum Sex. Roscio et magnas rei familiaris controversias concedas necesse est.",
+                "Dat er een vijandschap bestond tussen u en Sextus Roscius en grote onenigheden over familievermogen moet u wel toegeven."
             ]
         ]
     }
