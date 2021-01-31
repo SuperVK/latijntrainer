@@ -489,7 +489,7 @@ Quid? Ea multitudo quae erat?
 > En dan? Die massa, wat was dat [voor een massa]?
 
 Opinor aut eorum qui in bonis erant occupati aut eorum qui ab iis conducebantur ut aliquem occiderent.
-> Ik denk of [een massa] bestaande uit hen die 60 in beslag genomen waren bij het kopen van goederen of bestaande uit hen die door dezen in dienst genomen werden om iemand te ver-moorden. 
+> Ik denk of [een massa] bestaande uit hen die in beslag genomen waren bij het kopen van goederen of bestaande uit hen die door dezen in dienst genomen werden om iemand te vermoorden. 
 
 Si eos putas qui alienum appetebant, tu es in eo numero qui nostra pecunia dives es;
 > Als u hen bedoelt die uit waren op andermans bezit, [dan] behoort u tot dat aantal, u die door ons geld rijk bent; 
@@ -505,4 +505,32 @@ et, quicquid tu contra dixeris, id cum defensione nostra contendito;
 
 ita facillime causa Sex. Rosci cum tua conferetur.
 > zo zal de zaak van Sex. Roscius zeer gemakkelijk tegenover de uwe gesteld worden.
+
+### 4.5.10 Magnus vergeleken met Sex. Roscius (par. 94, pag. 114)
+Dices: ‘Quid postea, si Romae assiduus fui?’ 
+> U zult zeggen: ‘En dan, als ik ononderbroken in Rome ben geweest?’ 
+
+Respondebo: ‘At ego omnino non fui.’
+> Ik zal antwoorden: `Maar ik ben er helemaal niet geweest.’ 
+
+-– ‘Fateor me sectorem esse, verum et alii multi.’
+> – ‘Ik beken dat ik een opkoper van goederen ben, maar ook vele anderen [zijn dat].’
+
+-– ‘At ego,’ ut tute arguis, ‘agricola et rusticus.’
+> - ‘Maar ik’, zoals u zelf beschuldigend zegt, ‘een boer en boerenkinkel.’ 
+
+-– ‘Non continuo, si me in gregem sicariorum contuli, sum sicarius.’
+> – ‘het is niet direct zo dat ik, als ik mij heb begeven onder een groep moordenaars, [ook] een moordenaar ben.’ 
+
+-– ‘At ego profecto qui ne novi quidem quemquam sicarium longe absum ab eiusmodi crimine.’
+> – ‘Maar ik, die zelfs geen enkele moordenaar ken, ben zeker ver verwijderd van een dergelijke aanklacht.’ 
+
+Permulta sunt quae dici possunt quare intellegatur summam tibi facultatem fuisse malefici suscipiendi;
+> Zeer talrijk zijn de dingen die gezegd kunnen worden waarom/waardoor begrepen wordt (kon worden) dat er voor u de beste gelegenheid is geweest om een misdaad te begaan;
+
+quae non modo idcirco praetereo quod te ipsum non libenter accuso verum eo magis etiam quod, [...], vereor ne ad plures oratio mea pertinere videatur. 
+> die dingen sla ik niet alleen daarom over omdat ik uzelf niet graag beschuldig maar des te meer ook omdat, [...], ik bang ben dat mijn woorden (mijn rede) op meer mensen betrekking lijkt te hebben. 
+
+si de illis caedibus velim commemorare quae tum factae sunt ista eadem ratione qua Sex. Roscius occisus est,
+> als ik over die moorden zou willen spreken die toen gepleegd zijn op diezelfde wijze waarop Sextus Roscius is gedood, 
 
