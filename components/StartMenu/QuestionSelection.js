@@ -9,7 +9,7 @@ const QuestionSelection = ({parts, handleToggle, handleHeaderToggle, checked, he
     >
         {Object.values(parts).map((part, i) => {
             let headerTitle = Object.keys(parts)[i]
-            return <List>
+            return <List key={headerTitle+'H'}>
                 <ListItem button style={{backgroundColor: "white"}} onClick={handleHeaderToggle(headerTitle)} key={headerTitle}>
                     <ListItemIcon>
                         <Checkbox
@@ -20,7 +20,10 @@ const QuestionSelection = ({parts, handleToggle, handleHeaderToggle, checked, he
                         inputProps={{ 'aria-labelledby': headerTitle }}
                         />
                     </ListItemIcon>
-                    {headerTitle}
+                    <b style={{color: '#636363'}}>
+                        
+                        {headerTitle}
+                    </b>
                 </ListItem>
                 <Divider key="divider"></Divider>
                 {part.map((label, index) => (
