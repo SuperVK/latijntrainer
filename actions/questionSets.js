@@ -1,8 +1,8 @@
 import { START_QUESTIONS, STOP_QUESTIONS, SET_CHECKED } from '.'
 import quizMaster from '../src/QuizMaster'
 
-export const startQuestionSet = (checked) => {
-	quizMaster.setSelectedGroup(checked)
+export const startQuestionSet = (checked, shuffle) => {
+	quizMaster.setSelectedGroup(checked, shuffle)
 
 	quizMaster.newQuestion()
 

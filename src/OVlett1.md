@@ -1,0 +1,198 @@
+###  4.1.1 Cicero's eerste woorden (par. 1)
+Credo ego vos, iudices, mirari quid sit, quod, cum tot summi oratores hominesque nobilissimi sedeant,
+> Ik vermoed dat u, heren rechters, zich verwonderd afvraagt wat de reden is dat, hoewel zoveel voortreffelijke redenaars en zeer aanzienlijke mannen zitten,
+
+ego potissimum surrexerim, is qui neque aetate neque ingenio neque auctoritate sim cum his qui sedeant comparandus.
+> nu juist ik ben opgestaan, ik die noch in leeftijd, noch in talent, noch in gezag met deze die zitten vergeleken kan worden.
+
+Omnes enim hi quos videtis adesse in hac causa iniuriam novo scelere conflatam putant oportere defendi, defendere ipsi propter iniquitatem temporum non audent.
+> Al dezen namelijk die u aanwezig ziet, zijn van mening dat in deze zaak een onrecht met ongehoorde misdadigheid uitgedacht moet worden afgeweerd, zelf durven ze vanwege de moeilijkheid der tijden de verdediging niet te voeren.
+
+Ita fit ut adsint propterea quod officium sequuntur, taceant autem idcirco quia periculum vitant.
+> Zo gebeurt het dat ze aanwezig zijn om die reden dat ze hun verplichting nakomen, maar zwijgen daarom omdat ze gevaar vermijden.
+
+### 4.1.2 Cicero's angst (par. 9)
+His de rebus tantis tamque atrocibus neque satis me commode dicere neque satis graviter conqueri neque satis libere vociferari posse intellego.
+> Ik begrijp dat ik over deze zo grote en zo gruwelijke zaken noch voldoende passend kan spreken, noch voldoende ernstig klagen, noch voldoende vrij mijn stem verheffen.
+
+Nam commoditati ingenium, gravitati aetas, libertati tempora sunt impedimento.
+> Want voor gepastheid is mijn talent, voor ernst mijn jeugd, voor vrijheid de politieke situatie tot belemmering.
+
+Huc accedit summus timor quem mihi natura pudorque meus attribuit et vestra dignitas et vis adversariorum et Sex. Rosci pericula.
+> Hier komt bij de enorme angst die mijn natuurlijke schuchterheid mij heeft toebedeeld, en uw waardigheid en de kracht van de tegenstanders en de gevaren voor Sextus Roscius.
+
+### 4.1.2 Een dringend beroep op de rechters (par. 9-11)
+Quapropter vos oro atque obsecro, iudices, ut attente bonaque cum venia verba mea audiatis.
+> Daarom bid en smeek ik u, heren rechters, dat u aandachtig en met welwillendheid naar mijn woorden luistert.
+
+Fide sapientiaque vestra fretus plus oneris sustuli quam ferre me posse intellego.
+> Steunend op uw trouw en wijsheid heb ik meer last op mij genomen dan ik besef dat ik kan dragen.
+
+Hoc onus si vos aliqua ex parte allevabitis, feram ut potero studio et industria, iudices;
+> Als u deze last in enige mate zult verlichten, dan zal ik hem naar beste kunnen dragen met toewijding en ijver, heren rechters;
+
+sin a vobis – id quod non spero – deserar, tamen animo non deficiam et id quod suscepi, quoad potero, perferam.
+> maar als ik door u – dat wat ik niet verwacht – in de steek zal worden gelaten, zal ik toch de moed niet verliezen en dat wat ik op mij genomen heb, voor zover ik zal kunnen, volbrengen.
+
+Quod si perferre non potero, opprimi me onere offici malo quam id quod mihi cum fide semel impositum est aut propter perfidiam abicere aut propter infirmitatem animi deponere.
+> Als ik dat niet zal kunnen volbrengen, dan wil ik liever dat ik overweldigd word door de last van de plicht dan dat wat mij eenmaal met vertrouwen is opgelegd ofwel vanwege trouweloosheid op te geven of vanwege zwakheid van geest neer te leggen.
+
+Te quoque magnopere, M. Fanni, quaeso ut qualem te iam antea populo Romano praebuisti, cum huic eidem quaestioni iudex praeesses, talem te et nobis et rei publicae hoc tempore impertias.
+> Ook u, Marcus Fannius, vraag ik nadrukkelijk dat u, zoals u zich al eerder tegenover het Romeinse volk hebt betoond, toen u als rechter voorzitter was van deze zelfde rechtbank, zich zo ook voor ons en de staat op dit moment opstelt.
+
+Quanta multitudo hominum convenerit ad hoc iudicium vides; quae sit omnium mortalium exspectatio, quae cupiditas ut acria ac severa iudicia fiant intellegis.
+> U ziet hoe een grote menigte van mensen is samengekomen naar dit proces; u begrijpt wat de verwachting is van alle stervelingen, welk verlangen dat er scherpe en strenge vonnissen worden geveld.
+
+Longo intervallo iudicium inter sicarios hoc primum committitur, cum interea caedes indignissimae maximaeque factae sunt;
+> Na een lange onderbreking wordt dit als eerste moordproces gehouden, nadat intussen de meest onwaardige en grootste bloedbaden zijn aangericht;
+
+omnes hanc quaestionem te praetore manifestis maleficiis cotidianoque sanguine dimisso virtutis ostentui sperant futuram.
+> allen hopen dat dit proces terwijl u praetor bent, waarbij er een eind komt aan de openlijke misdaden en het dagelijks bloedvergieten, tot toonbeeld van deugd zal zijn.
+
+### 4.1.2 De omgekeerde wereld (par. 12-14)
+Qua vociferatione in ceteris iudiciis accusatores uti consuerunt, ea nos hoc tempore utimur qui causam dicimus.
+> Welke stemverheffing de aanklagers gewoon zijn in overige processen te gebruiken, deze gebruiken wij die de verdediging voeren op dit moment.
+
+Petimus abs te, M. Fanni, a vobisque, iudices, ut quam acerrime maleficia vindicetis,
+> Wij vragen van u, Marcus Fannius, en van u, heren rechters, dat u de misdaden zo streng mogelijk bestraft,
+
+ut quam fortissime hominibus audacissimis resistatis, ut hoc cogitetis, nisi in hac causa qui vester animus sit ostendetis, eo prorumpere hominum cupiditatem et scelus et audaciam
+> dat u zich zo dapper mogelijk tegen de zeer overmoedige mannen verzet, dat u dit bedenkt, dat, als u in deze zaak niet laat zien wat uw mentaliteit is, dat dan de begeerte van mensen en de misdadigheid en de overmoed zozeer naar buiten breken,
+
+ut non modo clam verum etiam hic in foro ante tribunal tuum, M. Fanni, ante pedes vestros, iudices, inter ipsa subsellia caedes futurae sint.
+> dat niet alleen heimelijk, maar ook hier op het forum voor uw rechterstoel, Marcus Fannius, voor uw voeten, heren rechters, tussen deze banken hier, bloedbaden zullen plaatsvinden.
+
+Etenim quid aliud hoc iudicio temptatur nisi ut id fieri liceat?
+> Immers, wat anders wordt er in dit proces nagestreefd behalve dat het vrijstaat dat dat gebeurt?
+
+Accusant ii qui in fortunas huius invaserunt, causam dicit is cui praeter calamitatem nihil reliquerunt;
+> De aanklagers zijn zij die zich meester hebben gemaakt van het bezit van deze hier, hij verdedigt zich voor wie ze behalve rampspoed niets hebben overgelaten;
+
+accusant ii quibus occidi patrem Sex. Rosci bono fuit, causam dicit is cui non modo luctum mors patris attulit verum etiam egestatem;
+> de aanklagers zijn zij, voor wie het tot voordeel was dat de vader van Sextus Roscius gedood werd, hij verdedigt zich voor wie de dood van zijn vader niet alleen verdriet bracht maar ook armoede;
+
+accusant ii qui hunc ipsum iugulare summe cupierunt, causam dicit is qui etiam ad hoc ipsum iudicium cum praesidio venit ne hic ibidem ante oculos vestros trucidetur;
+> de aanklagers zijn zij die hemzelf hier zeer vurig wilden afslachten, hij verdedigt zich die zelfs naar dit proces met een bescherming is gekomen, opdat hij niet hier ter plekke voor uw ogen wordt afgeslacht;
+
+denique accusant ii quos populus poscit, causam dicit is qui unus relictus ex illorum nefaria caede restat.
+> de aanklagers ten slotte zijn zij die het volk opeist, hij verdedigt zich die als enige overlevende van hun schandelijke moord overblijft.
+
+Atque ut facilius intellegere possitis, iudices, ea quae facta sunt indigniora esse quam haec sunt quae dicimus,
+> En opdat u gemakkelijker kunt begrijpen, heren rechters, dat die dingen die gebeurd zijn, onwaardiger zijn dan deze dingen zijn die ik zeg,
+
+ab initio res quemadmodum gesta sit vobis exponemus, quo facilius et huius hominis innocentissimi miserias et illorum audacias cognoscere possitis et rei publicae calamitatem
+> zal ik vanaf het begin voor u uiteenzetten hoe de zaak is uitgevoerd, opdat u des te gemakkelijker de ellende van deze meest onschuldige jongeman en de overmoedige daden van hen kunt leren kennen, alsmede de ramp voor de staat.
+
+### 4.2 Een rechtschapen man, die aan de goede kant stond (par. 15-16)
+Sex. Roscius, pater huiusce, municeps Amerinus fuit, cum genere et nobilitated et pecunia non modo sui municipi verum etiam eius vicinitatis facile primus, tum gratia atque hospitiis florens hominum nobilissimorum.
+> Sextus Roscius, de vader van deze hier, was een burger uit Ameria, zowel door afkomst en aanzien en vermogen, niet alleen van zijn eigen gemeente maar ook van de omgeving daarvan, met gemak de eerste, als zich verheugend in de gunst en de gastvriendschappen van de aanzienlijkste mensen.
+
+Nam cum Metellis, Serviliis, Scipionibus erat ei non modo hospitium verum etiam domesticus usus et consuetudo, quas, ut aequum est, familias honestatis amplitudinisque gratia nomino.
+> Want met de Metelli, de Servilii, de Scipiones was er voor hem niet alleen gastvriendschap maar ook huiselijk verkeer en een vertrouwelijke omgang, welke families ik, zoals rechtvaardig is, noem omwille van hun eer en waardigheid.
+
+Itaque ex suis omnibus commodis hoc solum filio reliquit; 
+> Dus van al zijn voorrechten heeft hij slechts dit aan zijn zoon nagelaten;
+
+nam patrimonium domestici praedones vi ereptum possident, fama et vita innocentis ab hospitibus amicisque paternis defenditur.
+> want zijn vaderlijk erfgoed hebben boeven uit de familie in bezit, met geweld afgenomen, de reputatie en het leven van de onschuldige wordt door gastvrienden en vrienden van zijn vader verdedigd.
+
+Hic cum omni tempore nobilitatis fautor fuisset tum hoc tumult proximo,
+> Deze was niet alleen de gehele tijd de beschermer van de adel geweest maar ook verdedigde hij in deze laatste woelingen, 
+
+cum omnium nobelium dignitas et salus in discrimen venire, praeter ceteros in ea vicinitate eam partem causamque opera, studio, auctoritate defendit.
+> toen de waardigheid en het behoud van alle aanzienlijken in gevaar kwamen, in deze streek meer dan de overigen die kant en die zaak met zijn inspanning, zijn ijver, zijn gezag.
+
+Etenim rectum putabat pro eorum honestate se pugnare propter quos ipse honestissimus inter suos numerabatur.
+> Hij beschouwde het immers als juist dat hij vocht voor de eer van hen dankzij wie hij zelf als de meest eerwaardige onder de zijnen werd beschouwd.
+
+Posteaquam victoria constituta es tab armisque recessimus, cum proscriberentur homines atque ex omni regione caperentur ii qui adversarii fuisse putabantur, erat ille Romae frequens atque in foro et in ore omnium cotidie versabatur,
+> Nadat de overwinning was behaald en wij de wapens hadden neergelegd, toen mensen vogelvrij werden verklaard en uit elke streek diegenen gevangen werden genomen die geacht werden tegenstanders te zijn geweest, was hij veelvuldig in Rome en hield zich dagelijks op op het forum en voor de ogen van allen, 
+
+magis ut exsultare Victoria nobilitatis videretur quam timere ne quid ex ea calamitatis sibi accideret.
+> zodat hij meer scheen te juichen over de overwinning van de adel dan te vrezen dat hem daardoor iets rampzaligs zou overkomen.
+
+### 4.2 Op wie valt eigenlijk de verdenking? (par. 17-18)
+Erant ei veteres inimicitiae cum duobus Rosciis Amerinis, quorum alterum sedere in accusatorum subselliis video, alterum tria huiusce praedia possidere audio;
+> Er waren voor hem oude vijandschappen met de twee Roscii Amerini, van wie ik zie dat de een op de banken van de aanklagers zit, ik hoor dat de ander drie landgoederen van mijn cliënt hier in bezit heeft;
+
+quas inimicitias si tam cavere potuisset quam metuere solebat, viveret.
+> als hij zich tegen deze vijandschappen net zo had kunnen veiligstellen als hij ze placht te vrezen, zou hij leven.
+
+Neque enim, iudices, iniuria metuebat. 
+> En niet immers, heren rechters, vreesde hij ten onrechte.
+
+Nam duo isti sunt T. Roscii – quorum alteri Capitoni cognomen est, iste qui adest Magnus vocatur – homines eiusmodi:
+> Want die twee T. Roscii – van wie de een de familienaam Capito heeft, die welke hier aanwezig is Magnus genoemd wordt – zijn mannen van de volgende aard:
+
+alter plurimarum palmarum vetus ac nobilis gladiator habetur, hic autem nuper se ad eum lanistam contulit, quique ante hanc pugnam tiro esset, quod sciam, facile ipsum magistrum scelere audaciaque superavit.
+> de een wordt beschouwd als een oude en aanzienlijke gladiator die vele overwinningen heeft behaald, deze hier echter heeft zich onlangs tot die trainer gewend, en hij die vóór dit gevecht een beginneling was, voor zover ik weet, heeft zijn leermeester zelf met gemak in misdadigheid en overmoed overtroffen.
+
+Nam cum hic Sex. Roscius esset Ameriae, T. autem iste Roscius Romae, cum hic filius assiduus in praediis esset cumque se voluntate patris rei familiari vitaeque rusticae dedisset, iste autem frequens Romae esset, occiditur ad balneas Pallacinas rediens a cena Sex. Roscius.
+> Want toen deze Sex. Roscius in Ameria was, die T. Roscius echter in Rome, toen deze zoon voortdurend op de landgoederen was en toen hij zich volgens de wil van zijn vader aan het familiebezit en het landleven had overgegeven, die echter veelvuldig in Rome was, werd vlakbij het badhuis in Pallacina, terwijl hij terugkeerde van de maaltijd, Sex. Roscius gedood.
+
+Spero ex hoc ipso non esse obscurum ad quem suspicio malefici pertineat;
+> Ik hoop dat alleen al hieruit niet onduidelijk is op wie de verdenking van de misdaad betrekking heeft;
+
+verum id quod adhuc est suspiciosum, nisi perspicuum res ipsa fecerit, hunc affinem culpae iudicatote.
+> maar als de zaak zelf datgene wat nog verdacht is, niet zal duidelijk maken, beoordeelt u dan deze hier als betrokken bij de schuld.
+
+### 4.2 Wat er na de moord gebeurde (par. 19-21)
+Occiso Sex. Roscio primus Ameriam nuntiat Mallius Glaucia quidam, homo tenuis, libertinus, cliens et familiaris istius T. Rosci, et nuntiat domum non fili sed T. Capitonis inimici;
+> Nadat Sextus Roscius gedood is, brengt als eerste een zekere Mallius Glaucia het bericht naar Ameria, een man van lage afkomst, een vrijgelatene, beschermeling en vertrouweling van die T. Roscius en hij brengt het bericht naar het huis niet van de zoon, maar van de vijand T. Capito;
+
+et cum post horam primam noctis occisus esset, primo diluculo nuntius hic Ameriam venit;
+> en hoewel hij na het eerste uur van de nacht gedood was, kwam deze bode bij de eerste ochtendschemering in Ameria aan;
+
+decem horis nocturnis sex et quinquaginta milia passuum cisiis pervolavit, non modo ut exoptatum inimico nuntium primus afferret 
+> in tien nachtelijke uren snelde hij met karren door zesenvijftig mijl, niet alleen om het door de vijand vurig gewenste bericht als eerste over te brengen,
+
+sed etiam cruorem inimici quam recentissimum telumque paulo ante e corpore extractum ostenderet.
+> maar ook om het bloed van zijn vijand zo vers mogelijk te tonen en het wapen dat kort tevoren uit het lichaam was getrokken.
+
+Quadriduo quo haec gesta sunt res ad Chrysogonum in castra L. Sullae Volaterras defertur;
+> Op de vierde dag nadat deze dingen gebeurd zijn wordt de zaak gemeld aan Chrysogonus in het legerkamp van L. Sulla in Volterra;
+
+magnitudo pecuniae demonstratur; bonitas praediorum – nam fundos decem et tres reliquit qui Tiberim fere omnes tangunt –, huius inopia et solitudo commemoratur;
+> er wordt gewezen op de omvang van het vermogen; de voortreffelijkheid van de landgoederen – want hij liet dertien landgoederen na die bijna allemaal aan de Tiber grenzen –, en de armoede en eenzaamheid van mijn cliënt hier worden vermeld;
+
+demonstrant, cum pater huiusce Sex. Roscius, homo tam splendidus et gratiosus, nullo negotio sit occisus, perfacile hunc hominem incautum et rusticum et Romae ignotum de medio tolli posse;
+> ze wijzen erop dat, wanneer Sex. Roscius de vader van mijn cliënt, een zo aanzienlijk en geacht man, zonder enig probleem gedood is, heel eenvoudig deze man, argeloos en boers en onbekend in Rome, uit de weg geruimd kan worden; 
+
+ad eam rem operam suam pollicentur.
+> voor deze zaak beloven ze hun inspanning.
+
+Ne diutius teneam, iudices, societas coitur.
+> Om u niet langer op te houden, heren rechters, er wordt een verbond gesloten.
+
+Cum nulla iam proscriptionis mentio fieret, cum etiam qui antea metuerant redirent ac iam defunctos sese periculis arbitrarentur, nomen refertur in tabulas Sex. Rosci, hominis studiosissimi nobilitatis, cuius bonorum manceps fit Chrysogonus;
+> Terwijl (hoewel) er geen enkele melding meer van proscriptie werd gemaakt, hoewel zelfs degenen die eerder bang waren geweest terugkeerden en van mening waren dat ze van de gevaren afwaren, wordt de naam van Sex. Roscius op de lijsten geplaatst, een man die zeer ijverig steun verleende aan de adel, van wiens goederen de opkoper Chrysogonus wordt;
+
+tria praedia vel nobilissima Capitoni propria traduntur, quae hodie possidet; in reliquas omnes fortunas iste T. Roscius nomine Chrysogoni, quemadmodum ipse dicit, impetum facit.
+> drie landgoederen en wel de meest voortreffelijke worden aan Capito als eigendom overgedragen, die hij heden bezit; alle overige bezittingen neemt die T. Roscius in naam van Chrysogonus, zoals hij zelf zegt, in handen.
+
+### 4.2 Sulla was niet op de hoogte! (par. 21-22)
+Haec omnia, iudices, imprudente L. Sulla facta esse certo scio.
+> Dat al deze dingen, heren rechters, buiten medeweten van Sulla zijn gebeurd, weet ik zeker.
+
+Neque enim mirum, cum eodem tempore et ea quae praeterita sunt sanet et ea quae videntur instare praeparet, cum et pacis constituendae rationem et belli gerendi potestatem solus habeat,
+> En het is namelijk niet verwonderlijk, omdat hij tegelijkertijd én de dingen die voorbij zijn herstelt én de dingen die op handen schijnen te zijn, voorbereidt, omdat hij als enige én de controle heeft over het opbouwen van de vrede én de macht over het oorlog voeren, 
+
+cum omnes in unum spectent, unus omnia gubernet, cum tot tantisque negotiis distentus sit ut respirare libere non possit, si aliquid non animadvertat, cum praesertim tam multi occupationem eius observent tempusque aucupentur ut, simul atque ille despexerit, aliquid huiuscemodi moliantur
+> omdat allen naar één kijken, één alles bestuurt, omdat hij door zoveel en zo grote taken drukbezet is dat hij niet vrij kan ademen, als hij iets niet opmerkt, aangezien in het bijzonder zo velen in de gaten houden wanneer hij drukbezet is en loeren op het moment om, zodra hij zijn blik heeft afgewend, iets van deze aard op touw te zetten.
+
+Huc accedit quod, quamvis ille felix sit, sicut est, tamen in tanta felicitate nemo potest esse in magna familia qui neminem neque servum neque libertum improbum habeat.
+> Hier komt bij dat, ook al is hij gelukkig, zoals hij is, toch niemand met een grote huishouding in zo’n groot geluk kan zijn dat hij en geen enkele slaaf en geen enkele vrijgelatene heeft die niet deugt.
+
+### 4.2 Sextus Roscius wordt door Magnus van huis en haard verdreven (par. 23)
+Interea iste T. Roscius, vir optimus, procurator Chrysogoni, Ameriam venit, in praedia huius invadit,
+> Intussen komt die T. Roscius, een voortreffelijke man, de beheerder van Chrysogonus, naar Ameria, valt de landgoederen van mijn cliënt hier binnen, 
+
+hunc miserum, luctu perditum, qui nondum etiam omnia paterno funeri iusta solvisset, nudum eicit domo atque focis patriis disque penatibus praecipitem, iudices, exturbat, ipse amplissimae pecuniae fit dominus.
+> gooit deze ongelukkige, wanhopig door verdriet, die zelfs nog niet alle voor de begrafenis van zijn vader vereiste ceremoniën had volbracht, naakt uit zijn huis en verdrijft hem hals over kop van vaderlijke haard en goddelijke penaten, heren rechters, zelf wordt hij de meester van een zeer ruim vermogen. 
+
+Qui in sua re fuisset egentissimus, erat, ut fit, insolens in aliena:
+> Hij die, toen hij nog alleen zijn eigen bezit had, zeer behoeftig was geweest, was, zoals dat gaat, onmatig met het bezit van een ander:
+
+multa palam domum suam auferebat, plura clam de medio removebat, non pauca suis adiutoribus large effuseque donabat, reliqua constituta auctione vendebat.
+> vele dingen bracht hij openlijk weg naar zijn eigen huis, meer nog verduisterde hij heimelijk, niet weinig schonk hij royaal en kwistig aan zijn helpers, het overige verkocht hij nadat een veiling georganiseerd was.
+

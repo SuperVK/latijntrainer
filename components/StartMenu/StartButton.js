@@ -1,8 +1,8 @@
 import { Button } from '@material-ui/core'
 
-const StartButton = ({ onClick, disabled }) => (
+const StartButton = ({ onClick, disabled, shuffle }) => (
 	<Button size="large" disabled={disabled} variant="contained" onClick={onClick}>
-  	Start
+  	{shuffle ? 'Shuffle' : 'Start'}
 	</Button>
 )
 

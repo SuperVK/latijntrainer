@@ -39,11 +39,8 @@ Nam statim Chrysogonus et ipse ad eos accedit et homines nobiles allegat qui pet
 Usque adeo autem ille pertimuerat ut mori mallet quam de his rebus Sullam doceri.
 > zo bang echter was die geworden dat hij liever wilde sterven dan dat over deze zaken Sulla geïnformeerd werd.
 
-Homines antiqui qui ex sua natura ceteros fingerent, cum ille confirmaret sese nomen Sex. Rosci de tabulis exempturum,
-> De mannen van de oude stempel, die nu eenmaal dachten dat andere mensen net zo’n karakter hadden als zijzelf, geloofden het, toen hij verzekerde dat hij de naam van Sex. Roscius van de lijsten zou verwijderen,
-
-praedia vacua filio traditurum, cumque id ita futurum T. Roscius Capito, qui in decem legatis erat, appromitteret, crediderunt;
-> de landgoederen vrij aan de zoon zou overdragen, en toen T. Roscius Capito, die onder de tien gezanten was, zijn belofte toevoegde dat het zo zou gebeuren; 
+Homines antiqui qui ex sua natura ceteros fingerent, cum ille confirmaret sese nomen Sex. Rosci de tabulis exempturum, praedia vacua filio traditurum, cumque id ita futurum T. Roscius Capito, qui in decem legatis erat, appromitteret, crediderunt;
+> De mannen van de oude stempel, die nu eenmaal dachten dat andere mensen net zo’n karakter hadden als zijzelf, geloofden het, toen hij verzekerde dat hij de naam van Sex. Roscius van de lijsten zou verwijderen, de landgoederen vrij aan de zoon zou overdragen, en toen T. Roscius Capito, die onder de tien gezanten was, zijn belofte toevoegde dat het zo zou gebeuren;
 
 Ameriam re inorata reverterunt.
 > ze keerden terug naar Ameria zonder hun zaak te hebben voorgelegd.
@@ -548,7 +545,7 @@ Cum hoc vereor et cupio tibi aliqua ex parte quod salva fide possim parcere, rur
 > Terwijl ik hier bang voor ben en u enigszins wil sparen voor zover ik dat kan met behoud van mijn loyaliteit, wijzig ik opnieuw mijn voornemen; want ik herinner mij uw onbeschaamdheid. 
 
 cum ceteri socii tui fugerent ac se occultarent, ut hoc iudicium non de illorum praeda sed de huius maleficio fieri videretur,
-> toen uw andere makkers op de vlucht sloegen en zich verborgen met de bedoeling dat dit pro-ces niet scheen te gaan over hun roof maar over de misdaad van hem,
+> toen uw andere makkers op de vlucht sloegen en zich verborgen met de bedoeling dat dit proces niet scheen te gaan over hun roof maar over de misdaad van hem,
 
 Tene, [...], potissimum tibi partes istas depoposcisse ut in iudicio versarere et sederes cum accusatore?
 > Heeft u werkelijk, [...], juist die rol voor u opgeëist dat u zou deelnemen aan het proces en naast de aanklager zou zitten?

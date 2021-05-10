@@ -1,48 +1,45 @@
 import { List, ListItem, ListItemIcon, Checkbox, ListItemText, Grid, ListSubheader, Divider } from '@material-ui/core'
 
-const QuestionSelection = ({labels1, labels2, handleToggle, checked}) => {
+const QuestionSelection = ({parts, handleToggle, handleHeaderToggle, checked, headersChecked}) => {
     
 
     return <Grid 
         container
-        direction={"row"}
+        direction={"column"}
     >
-        <List>
-            <ListSubheader style={{backgroundColor: "white"}}>OV letterlijk 1 (SE03, week 41)<Divider></Divider></ListSubheader>
-            
-            {labels1.map((label, index) => (
-                <ListItem key={index} button onClick={handleToggle(index)}>
+        {Object.values(parts).map((part, i) => {
+            let headerTitle = Object.keys(parts)[i]
+            return <List>
+                <ListItem button style={{backgroundColor: "white"}} onClick={handleHeaderToggle(headerTitle)} key={headerTitle}>
                     <ListItemIcon>
                         <Checkbox
                         edge="start"
-                        checked={checked.indexOf(index) !== -1}
+                        checked={headersChecked.indexOf(headerTitle) !== -1}
                         tabIndex={-1}
                         disableRipple
-                        inputProps={{ 'aria-labelledby': label }}
+                        inputProps={{ 'aria-labelledby': headerTitle }}
                         />
                     </ListItemIcon>
-                    <ListItemText id={index} primary={label} />
+                    {headerTitle}
                 </ListItem>
-            ))}
-        </List>
-        <List>
-            <ListSubheader style={{backgroundColor: "white"}}>OV letterlijk 2 (SE05, 1 feb.)<Divider></Divider></ListSubheader>
-            {labels2.map((label, index) => {
-                let realindex = index+labels1.length
-                return <ListItem key={realindex} button onClick={handleToggle(realindex)}>
-                    <ListItemIcon>
-                        <Checkbox
-                        edge="start"
-                        checked={checked.indexOf(realindex) !== -1}
-                        tabIndex={-1}
-                        disableRipple
-                        inputProps={{ 'aria-labelledby': label }}
-                        />
-                    </ListItemIcon>
-                    <ListItemText id={realindex} primary={label} />
-                </ListItem>
-            })}
-        </List>
+                <Divider key="divider"></Divider>
+                {part.map((label, index) => (
+                    <ListItem key={`${headerTitle}:${index}`} button onClick={handleToggle(`${headerTitle}:${index}`)}>
+                        <ListItemIcon>
+                            <Checkbox
+                            edge="start"
+                            checked={checked.indexOf(`${headerTitle}:${index}`) !== -1}
+                            tabIndex={-1}
+                            disableRipple
+                            inputProps={{ 'aria-labelledby': label }}
+                            />
+                        </ListItemIcon>
+                        <ListItemText id={`${headerTitle}:${index}`} primary={label} />
+                    </ListItem>
+                ))}
+            </List>
+        })}
+        
     </Grid>
 
 }
