@@ -87,8 +87,8 @@ class QuizMaster {
 				question: this.selectedQuestions[this.order[this.currentIndex]][0],
 				after: this.selectedQuestions[this.order[this.currentIndex]+1] && this.selectedQuestions[this.order[this.currentIndex]+1][0]
 			},
-			dutch: this.selectedQuestions[this.currentIndex][1],
-			index: this.currentIndex
+			dutch: this.selectedQuestions[this.order[this.currentIndex]][1],
+			index: this.order[this.currentIndex]
 		}
 	}
 	getDutch() {
